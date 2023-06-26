@@ -13,4 +13,4 @@ If he falls into the Hole represented by the letter H, the game ends.
 The letter W represents the Wall, if your ball hits the wall, your ball bounces back two steps from the wall.
 
 If you run the code, it gives you a file named output.txt. It shows the result of each of your movements in the move.txt file to this file one by one by printing the board. You can also see your total paun at the end of the file. 
-To learn more in detail, you can read the pdf of the assignment BBM104_23_AS1 prepared by our teacher.
+To learn more in detail, you can read the pdf of the assignment BBM104_23_AS1 prepared by our teacher. 
